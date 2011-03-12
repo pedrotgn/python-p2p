@@ -1,0 +1,8 @@
+-----PYTHON-P2P-------------
+
+This small project aims to implement short versions of popular P2P protocols in Python. It is mainly created for teaching purposes in the P2P course (URV university).
+
+It does not implement any type of network communication like sockets. It just models as a python object a network node and it uses method invocation and instances to crete the network and simulate routing.
+
+The project is mainly focused on DHTs like Chord, Koorde or Symphony, but it also implement unstructured protocols (epidemics).
+
